@@ -45,3 +45,4 @@ GitOps Write Template is an Action object responsible commiting a single templat
 
 This Action object is only available when GitOps is configured in `read-write` mode.
 # student01
+# student02
